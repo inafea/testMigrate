@@ -8,6 +8,7 @@ namespace Migration_demo.Controllers
 {
     public class HomeController : Controller
     {
+        //this is commit
         public ActionResult Index()
         {
             return View();
