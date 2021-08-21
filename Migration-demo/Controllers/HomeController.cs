@@ -9,6 +9,7 @@ namespace Migration_demo.Controllers
     public class HomeController : Controller
     {
         //this is commit
+        //this is second commit
         public ActionResult Index()
         {
             return View();
